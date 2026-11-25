@@ -1,0 +1,15 @@
+1,Woda niegazowana,300,10
+2,Woda gazowana,300,10
+3,Cola,450,8
+4,Pepsi,450,8
+5,Sok pomarańczowy,500,6
+6,Sok jabłkowy,500,6
+7,Herbata mrożona,400,7
+8,Napój energetyczny,650,5
+9,Lemoniada,450,6
+10,Fanta pomarańczowa,450,7
+11,Sprite,450,7
+12,Sok wielowocowy,520,5
+13,Woda smakowa cytrynowa,350,8
+14,Czekolada do picia,600,4
+15,Napój izotoniczny,550,6
